@@ -10,5 +10,10 @@
 
 > Sur la page, choisis **`Stoa-Setup-…-x64.exe`** (PC classique) ou **`…-arm64.exe`** (PC ARM), puis lance l'installeur.
 
----
+## 💬 Vos retours
+
+N'hésitez pas à me faire des retours, idées ou remarques sur Stoa et mes applications, ça m'aide à progresser !
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ferdinand_Charly-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdinand-charly-51a7953b7/)
+
 📫 ferdinandcharly@gmail.com
